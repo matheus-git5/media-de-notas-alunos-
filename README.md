@@ -2,7 +2,7 @@
 
 Um programinha simples em Python que permite cadastrar notas, calcular a média e mostrar se o aluno foi aprovado ou reprovado.
 
-## ✅ O que o sistema faz:
+## O que o sistema faz:
 
 - Cadastra notas até o usuário digitar "sair"
 - Aceita somente notas entre 0 e 10
